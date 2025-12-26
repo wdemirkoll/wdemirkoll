@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdüsselam Demirkol
 
-<!--
-**wdemirkoll/wdemirkoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-motivated **developer** who started learning programming at a young age and continues to improve every day by studying and building projects at home. I believe in learning by doing, staying consistent, and turning knowledge into real-world practice.
 
-Here are some ideas to get you started:
+Alongside programming, I am also **actively learning English** to improve my communication skills and grow as a global developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Started programming at an early age
+- 🏠 Learning and building projects **at home**
+- 📚 Improving myself step by step every day
+- 🌍 Learning **English** to become an international-ready developer
+- 🎯 Goal: become a strong, creative, and reliable software developer
+
+---
+
+## 🧰 Tools & Environment
+- 🧩 CodeBlocks IDE
+- 🛠️ Project-based learning
+- 🔁 Practice, practice, practice
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **wdemirkoll@gmail.com**
+- 📸 Instagram: [@w.demirkoll](https://instagram.com/w.demirkoll)
+
+---
+
+## 📊 GitHub Stats
+![Abdüsselam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdemirkoll&show_icons=true&theme=tokyonight)
+
+---
+
+✨ *Learning every day. Building every day. Improving every day.*
