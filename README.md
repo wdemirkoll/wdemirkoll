@@ -10,8 +10,14 @@ Alongside programming, I am also **actively learning English** to improve my com
 - 💻 Started programming at an early age
 - 🏠 Learning and building projects **at home**
 - 📚 Improving myself step by step every day
-- 🌍 Learning **English** to become an international-ready developer
+- 🌍 Learning **English**
 - 🎯 Goal: become a strong, creative, and reliable software developer
+
+---
+
+## 💻 Languages
+- ⚙️ **C++** — currently learning & practicing
+- 🔧 **C** — planned to learn
 
 ---
 
@@ -29,4 +35,3 @@ Alongside programming, I am also **actively learning English** to improve my com
 ---
 
 ✨ *Learning every day. Building every day. Improving every day.*
-
