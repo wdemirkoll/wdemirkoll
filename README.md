@@ -28,9 +28,4 @@ Alongside programming, I am also **actively learning English** to improve my com
 
 ---
 
-## 📊 GitHub Stats
-![Abdüsselam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdemirkoll&show_icons=true&theme=tokyonight)
-
----
-
 ✨ *Learning every day. Building every day. Improving every day.*
