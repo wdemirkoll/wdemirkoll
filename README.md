@@ -34,4 +34,9 @@ Alongside programming, I am also **actively learning English** to improve my com
 
 ---
 
+## ℹ️ Note 
+- Projects without version information are written in **C++14**, and projects with a specified version are written in **C++17**.
+
+---
+
 ✨ *Learning every day. Building every day. Improving every day.*
